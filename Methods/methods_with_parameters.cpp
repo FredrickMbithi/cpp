@@ -3,6 +3,7 @@ class Account
 {
 private:
     double balance;
+    int roll_number = 0;
 
 public:
     // Method with one parameter
@@ -29,8 +30,9 @@ public:
     }
 };
 
+// Usage:
 int main()
 {
     Account myAccount;
-    myAccount.deposit(500, 0);
+    myAccount.deposit(500.0); // Passes 500.0 as argument
 }
