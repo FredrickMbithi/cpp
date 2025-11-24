@@ -11,5 +11,13 @@ public:
 
     void display()
     {
+        std::cout << "Price" << price << std::endl;
+        std::cout << "Quantity" << quantity << std::endl;
+        std::cout << "Name" << name << std::endl;
     }
 };
+
+int main()
+{
+    // creating objects (instances)
+}
