@@ -26,4 +26,6 @@ int main()
 
     // 2. Call the display method
     studennt1.display();
+
+    return 0;
 }
