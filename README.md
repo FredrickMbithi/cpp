@@ -2,7 +2,7 @@
 
 Collection of C++ programming exercises covering object-oriented programming, classes, methods, and problem-solving challenges.
 
-## 📚 Repository Structure
+## Repository Structure
 
 ```
 cpp/
@@ -12,7 +12,7 @@ cpp/
 └── Challenges/          # Programming challenges and exercises
 ```
 
-## 🎯 Topics Covered
+## Topics Covered
 
 ### 1. Object-Oriented Programming (`oop/`)
 - Encapsulation
@@ -40,7 +40,7 @@ cpp/
 - Data structure exercises
 - Problem-solving tasks
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - C++ compiler (g++, clang++, or MSVC)
@@ -62,7 +62,7 @@ g++ -std=c++17 -o program program.cpp
 g++ -Wall -Wextra -o program program.cpp
 ```
 
-## 📝 Example Code Patterns
+## Example Code Patterns
 
 ### Class Definition
 
@@ -184,7 +184,7 @@ public:
 };
 ```
 
-## 🧩 Common Exercise Types
+## Common Exercise Types
 
 ### 1. Bank Account System
 ```cpp
@@ -243,7 +243,7 @@ public:
 };
 ```
 
-## 🔑 Key C++ Concepts
+## Key C++ Concepts
 
 ### Memory Management
 ```cpp
@@ -296,7 +296,7 @@ public:
 };
 ```
 
-## 🛠️ Development Best Practices
+## Development Best Practices
 
 1. **Header Guards** — Prevent multiple inclusions
 2. **Const Correctness** — Mark methods that don't modify state
@@ -305,7 +305,7 @@ public:
 5. **Use `const` References** — Pass objects efficiently
 6. **Avoid Raw Pointers** — Prefer smart pointers
 
-## 📖 Compilation Tips
+## Compilation Tips
 
 ### Makefile Example
 ```makefile
@@ -335,7 +335,7 @@ make
 make clean
 ```
 
-## 🧪 Testing
+## Testing
 
 ### Simple Test Example
 ```cpp
@@ -354,7 +354,7 @@ void testBankAccount() {
 }
 ```
 
-## 📚 Learning Resources
+## Learning Resources
 
 **Official:**
 - [cppreference.com](https://en.cppreference.com/)
@@ -370,18 +370,18 @@ void testBankAccount() {
 - [HackerRank](https://www.hackerrank.com/)
 - [Codewars](https://www.codewars.com/)
 
-## 🎓 Educational Context
+## Educational Context
 
 These exercises cover fundamental to intermediate C++ programming concepts typically taught in:
 - CS1/CS2 university courses
 - Software engineering bootcamps
 - Self-study programs
 
-## 📄 License
+## License
 
 Educational projects - MIT License
 
-## 👤 Author
+## Author
 
 Fredrick Mbithi
 
